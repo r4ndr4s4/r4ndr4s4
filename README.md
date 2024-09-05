@@ -12,6 +12,8 @@ My new personal site is currently under development and I'm also working on coll
 
 You can reach me at r4ndr4s4@protonmail.com
 
+![](https://hit.yhype.me/github/profile?user_id=13931659)
+
 <!--
 **r4ndr4s4/r4ndr4s4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
