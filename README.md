@@ -6,7 +6,7 @@ I started learning programming in elementary school, studied computer science in
 
 My new personal site is currently under development, and I'm also working on gathering the projects I can and want to publish, along with their code, here. Until then, here is some information about me:
 - Current stack(s): TypeScript, React, Node.js, Next.js, Express.js, Vue.js, Redux, Ant Design, Emotion, Tailwind
-- Current project(s): Music streaming with WebGL visualizations, my new personal site
+- Current project(s): Music streaming aggregator site with WebGL visualizations, my new personal ~site~ app
 - Older project(s): Language-learning SPA to expand vocabulary by watching series (Vue.js), Chinese Android smartphone price comparison website (KeystoneJS, AngularJS), Note and task list SPA with sync between your devices (Express.js, MongoDB, AngularJS), Real-time Draw Something clone SPA (Meteor.js)
 - Currently learning: Latest React and Next.js things, Tailwind
 - Currently reading: Don't Make Me Think (Steve Krug)
