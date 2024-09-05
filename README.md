@@ -2,9 +2,9 @@
 
 I'm a full-stack developer focusing on the frontend.
 
-I started learning programming at elementary school, went to secondary school for computer science, and finally got my engineering BSc degree. Nothing I've learned in these schools excited me more than what I've learned on my own: web development.
+I started learning programming in elementary school, studied computer science in secondary school, and eventually earned my BSc in computer engineering. However, nothing I learned in school has been as exciting as what I taught myself: web development.
 
-My new personal site is currently under development and I'm also working on collecting the projects I can and want to publish with their code here on GitHub. Until then, here is some info about me:
+My new personal site is currently under development, and I'm also working on gathering the projects I can and want to publish, along with their code, here. Until then, here is some information about me:
 - Current stack(s): TypeScript, React, Node.js, Next.js, Express.js, Vue.js, Redux, Ant Design, Emotion, Tailwind
 - Current project(s): Music streaming with WebGL visualizations, my new personal site
 - Currently learning: Latest React and Next.js things, Tailwind
